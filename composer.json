@@ -1,0 +1,12 @@
+{
+    "name": "fixprice/country-helper",
+    "require": {
+        "php": "^7.4"
+    },
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "CountryHelper\\": "src/"
+        }
+    }
+}
